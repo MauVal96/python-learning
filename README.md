@@ -13,5 +13,6 @@ Examples and exercises from my Python learning path
 7. For loop
 8. Break and continue statements
 9. Primality test
+10. Game - Guess the number
 
 **Made with 💙 by MauVal96**
