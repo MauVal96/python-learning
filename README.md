@@ -12,5 +12,6 @@ Examples and exercises from my Python learning path
 6. While loop
 7. For loop
 8. Break and continue statements
+9. Primality test
 
 **Made with 💙 by MauVal96**
