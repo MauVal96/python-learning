@@ -15,5 +15,6 @@ Examples and exercises from my Python learning path
 9. Primality test
 10. Game - Guess the number
 11. Dictionary exercises
+12. Password generator
 
 **Made with 💙 by MauVal96**
