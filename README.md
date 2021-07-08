@@ -10,5 +10,6 @@ Examples and exercises from my Python learning path
 4. Multiple currency converter using functions
 5. Palindrome verification using slides
 6. While loop
+7. For loop
 
 **Made with 💙 by MauVal96**
