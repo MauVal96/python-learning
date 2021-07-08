@@ -9,5 +9,6 @@ Examples and exercises from my Python learning path
 3. Multiple currency converter using conditional statements
 4. Multiple currency converter using functions
 5. Palindrome verification using slides
+6. While loop
 
 **Made with 💙 by MauVal96**
