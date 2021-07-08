@@ -11,5 +11,6 @@ Examples and exercises from my Python learning path
 5. Palindrome verification using slides
 6. While loop
 7. For loop
+8. Break and continue statements
 
 **Made with 💙 by MauVal96**
