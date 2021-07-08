@@ -14,5 +14,6 @@ Examples and exercises from my Python learning path
 8. Break and continue statements
 9. Primality test
 10. Game - Guess the number
+11. Dictionary exercises
 
 **Made with 💙 by MauVal96**
